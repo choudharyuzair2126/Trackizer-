@@ -25,7 +25,7 @@ Email: uzair2126@proton.me
 ```
 
 ## 🔗 Repository
-[GitHub - Trackizer](https://github.com/choudharyuzair2126/trackizer)
+[GitHub - Trackizer](https://github.com/choudharyuzair2126/trackizer-)
 
 ## 📢 Contact
 - **GitHub:** [choudharyuzair2126](https://github.com/choudharyuzair2126)
