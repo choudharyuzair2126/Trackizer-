@@ -24,7 +24,7 @@ If you want Source code feel free to contact me
 Email: uzair2126@proton.me
 ```
 ## 🔗 Want to check 
-[Trackizer](https://m-uzair.vercel.app/)
+[Trackizer](https://m-uzair.vercel.app/#projects)
 ## 🔗 Repository
 [GitHub - Trackizer](https://github.com/choudharyuzair2126/trackizer-)
 
